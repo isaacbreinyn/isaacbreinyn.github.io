@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Example on how to add links: [Academic Pages template](https://github.com/academicpages/academicpages.github.io)
+[Example on how to add links: [Academic Pages template](https://github.com/academicpages/academicpages.github.io)]: #
 
 
 Testing!!
