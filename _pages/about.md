@@ -1,3 +1,9 @@
+---
+layout: single
+title: About
+author_profile: true
+permalink: /
+---
 
 [Example on how to add links: [Academic Pages template](https://github.com/academicpages/academicpages.github.io)]: #
 
