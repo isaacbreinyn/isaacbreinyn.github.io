@@ -79,6 +79,12 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  # Custom CV link
+  cv:
+    name: "CV (Updated Nov. 2025)"
+    emoji: "📄"
+    url: "/files/Isaac_Breinyn_CV_Nov2025.pdf"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
