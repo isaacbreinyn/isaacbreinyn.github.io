@@ -9,7 +9,7 @@
 
 main:
   - title: "Science"
-    url: isaacbreinyn.github.io/_pages/publications.md
+    url: /_pages/publications.md
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
         
   - title: "Misc."
-    url: /year-archive/
+    url: /_pages/misc.md
     
   # - title: "CV"
   #   url: /cv/
