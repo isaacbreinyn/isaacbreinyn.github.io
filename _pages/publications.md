@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-None of this work would have been possible without amazing collaborations between scientists of different academic and personal backgrounds. 
+None of this work would have been possible without amazing collaborations between scientists of different academic and personal backgrounds. Co-authors are denoted by a *, and have agreed to flexible ordering on their respective lists of publications.
 
 > *“…it was Nature herself, and not the mathematician, who brings mathematics into natural philosophy.”*  
 > — **Kant**
 
-co-authors are denoted by a *, and have agreed to flexible ordering on their respective lists of publications.
 ---
 
 ### Post-doctoral Work
@@ -35,7 +34,6 @@ Coming soon, mind the gap...
 **Project Blurb:**  
 _Add a short description of the modeling strategy, goals, main findings, and how this work fits into the broader electrotaxis control story._
 
----
 
 ### 2024 — Cellular cruise control: energy dissipation as a regulator of collective migration in epithelia
 **Breinyn, I.B.\*, Martina-Perez, S.\*, Baker, R., Cohen, D.J.**  
@@ -47,7 +45,6 @@ _Add a short description of the modeling strategy, goals, main findings, and how
 **Project Blurb:**  
 _Describe the central idea of “cellular cruise control,” why energy dissipation is a useful order parameter, and major conceptual advances._
 
----
 
 ### 2024 — Optimal control of collective electrotaxis in epithelial monolayers
 **Martina-Perez, S., Breinyn, I.B., Cohen, D.J., Baker, R.**  
@@ -59,7 +56,6 @@ _Describe the central idea of “cellular cruise control,” why energy dissipat
 **Project Blurb:**  
 _Add an overview of the ODE / continuum-theory framework, the control objective, and key results from optimal control theory applied to collective electrotaxis._
 
----
 
 ### 2024 — Bioelectric stimulation controls tissue shape and size
 **Shim, G., Breinyn, I.B., Martínez-Calvo, A., Rao, S., Cohen, D.J.**  
@@ -71,8 +67,6 @@ _Add an overview of the ODE / continuum-theory framework, the control objective,
 **Project Blurb:**  
 _Summarize the experiments on 3D organoids (kidneyoids/gut organoids), the “electro-inflation” effect, and how bioelectric cues reshape tissue size and architecture._
 
----
-
 ### 2024 — E-cadherin biomaterials reprogram collective cell migration and cell cycling by forcing homeostatic conditions
 **Suh, K., Cho, Y., Breinyn, I.B., Cohen, D.J.**  
 *Cell Reports (2024)* [🔗](https://doi.org/10.1016/j.celrep.2024.113743)
@@ -83,8 +77,6 @@ _Summarize the experiments on 3D organoids (kidneyoids/gut organoids), the “el
 **Project Blurb:**  
 _Describe the “Janus” substrate design, the observed shift in migration/cell-cycle behavior across the interface, and implications for biomaterials leveraging cell–cell adhesion rather than ECM._
 
----
-
 ### 2023 — A hybrid, deep-learning pipeline for social network analysis in bumblebee colonies
 **Ruttenberg, D.M., Wolf, S.W., Knapp, D., Webb, A.E., Kane, A., Gee, T., Breinyn, I.B., LeChance, J., Cohen, D.J., Kocher, S.D.**  
 *Integrative and Comparative Biology (2023)* [🔗](URL_HERE)
@@ -94,8 +86,6 @@ _Describe the “Janus” substrate design, the observed shift in migration/cell
 
 **Project Blurb:**  
 _Add a summary of the deep-learning pipeline, tracking system, and new insights into bumblebee social networks._
-
----
 
 ### 2022 — Short-term bioelectric stimulation of collective cell migration in tissues reprograms long-term supracellular dynamics
 **Wolf, A.E., Breinyn, I.B., Heinrich, M.A., Zajdel, T.J., Cohen, D.J.**  
