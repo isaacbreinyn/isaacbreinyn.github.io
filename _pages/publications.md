@@ -93,7 +93,6 @@ Even though I left UCSB long before this study was published, I was lucky enough
 **Mitchell, N.P., Cislo, D.J., Shankar, S., Lin, Y., Shraiman, B.I., Streichan, S.J.**  
 *eLife (2022)* [🔗](https://doi.org/10.7554/eLife.77355)
 
-**Image:**  
 ![](/files/fly.jpg)
 
 
