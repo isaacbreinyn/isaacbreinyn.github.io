@@ -41,7 +41,7 @@ My long term plans are to study how certain behaviors arise in macroscopic human
 **Breinyn, I.B.\*, Martina-Perez, S.\*, Baker, R., Cohen, D.J.**  
 *bioRxiv (2024)* [🔗](https://doi.org/10.1101/2024.05.21.595054)
  
-![](files/cruisecontrol.jpg)
+![](/files/cruisecontrol.jpg)
 
 **Project Blurb:**  
 Energy dissipation is a major considiration for cells, especially when they're on the move. Here, we take a look at how cells pattern their migration to sit at an 'optimal' energy expenditure and what happens when you push cells past that optimal value.
@@ -54,7 +54,7 @@ Energy dissipation is a major considiration for cells, especially when they're o
 **Shim, G., Breinyn, I.B., Martínez-Calvo, A., Rao, S., Cohen, D.J.**  
 *Nature Communications (2024)* [🔗](https://doi.org/10.1038/s41467-024-47079-w)
 
-![](files/cysts.jpg)
+![](/files/cysts.jpg)
 
 **Project Blurb:**  
 Here, Gawoon and I grew MDCK-II kidneyoids and electrically stimulated them. The results were shocking! We observed that e-stim in a 3D epithelium drives what we called 'electro-inflation', causing the kidneyoids to swell to nearly 2-3x their cross-sectional area. We deduced that this was a result of ion packing at the organoid surface, disturbing the endogenous osmotic gradient that enables canonical growth in such a system. We did some fun modeling and also showcased electrotaxis in 3D for the first time ever!
@@ -64,7 +64,7 @@ Here, Gawoon and I grew MDCK-II kidneyoids and electrically stimulated them. The
 *Cell Reports (2024)* [🔗](https://doi.org/10.1016/j.celrep.2024.113743)
 
 **Image:**  
-![](files/janus.jpg)
+![](/files/janus.jpg)
 
 **Project Blurb:**  
 How does an epithelium behave when seeded upon a heterogenous substrate? We answered this question by growing MDCK-II tissues on a substrate that was 1/2 ECM and 1/2 E-cadherin. We saw some really cool seperations of collective behavior and a surprising effect that the E-cadherin substrate had on cell cycling. The coolest part: we observed that the boundary in substrate coating created an actual pseudo-mechanical booundary in the tissue! This became apparent when we looked at strain propogation in the tissue and saw true reflections in a contiguous tissue.
@@ -77,7 +77,7 @@ How does an epithelium behave when seeded upon a heterogenous substrate? We answ
 **Wolf, A.E., Breinyn, I.B., Heinrich, M.A., Zajdel, T.J., Cohen, D.J.**  
 *PNAS Nexus (2022)* [🔗](https://doi.org/10.1093/pnasnexus/pgac002)
 
-![](files/stim.jpg)
+![](/files/stim.jpg)
 
 **Project Blurb:**  
 How does a homogenous cue affect a heterogenous cellular population? Here, we applied global stimulation to a square cultured epithelium and characterized the differences in behavior at different parts of the tissue. Interestingly, all four edges of the tissue, as well as the center, behaved uniquely. We found that, in the context of mechanical properties and collective behavior, a short-term electrical shock performs a 'mechanical reset' in the tissue, 
@@ -95,7 +95,7 @@ Even though I left UCSB long before this study was published, I was lucky enough
 *eLife (2022)* [🔗](https://doi.org/10.7554/eLife.77355)
 
 **Image:**  
-![](files/fly.jpg)
+![](/files/fly.jpg)
 
 
 
