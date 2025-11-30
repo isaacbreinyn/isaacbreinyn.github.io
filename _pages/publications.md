@@ -37,7 +37,6 @@ My long term plans are to study how certain behaviors arise in macroscopic human
 **Martina-Perez, S., Breinyn, I.B., Cohen, D.J., Baker, R.**  
 *bioRxiv (2024)* [🔗](https://doi.org/10.1101/2024.02.28.580259)
 
-
 ### 2024 — Cellular cruise control: energy dissipation as a regulator of collective migration in epithelia
 **Breinyn, I.B.\*, Martina-Perez, S.\*, Baker, R., Cohen, D.J.**  
 *bioRxiv (2024)* [🔗](https://doi.org/10.1101/2024.05.21.595054)
