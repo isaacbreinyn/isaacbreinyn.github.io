@@ -19,8 +19,9 @@ None of this work would have been possible without amazing collaborations betwee
 **Prediation sculpts prey school dynamics**
 w/ Angela Albi, Ph.D. (MPI-AB)
 
+Enabled by the absolutely _beautiful_ drone data that Angela and co. collected in the Maldvives, we're taking a look at how reef sharks affect prey fish schools; specifically, we're looking at how the presence of shark(s) affects school shape and size, and which strategies both species employ to maximize success while minimzing energy expenditure. More to come here!
 
-
+![](/files/sharks.jpg) 
 
 ---
 
