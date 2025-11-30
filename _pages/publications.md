@@ -12,7 +12,7 @@ None of this work would have been possible without amazing collaborations betwee
 
 ---
 
-### Post-doctoral Work
+### Postdoctoral Work
 
 ---
 
