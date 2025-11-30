@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-My name is [Isaac Boris Breinyn](https://isaacbreinyn.github.io), and I am currently a postdoctoral researcher in the Department of Collective Behaviour at the Max Planck Institute of Animal Behavior, working with [Prof. Iain Couzin](https://www.ab.mpg.de/couzin). My postdcotoral research focuses on human decision making and collective dynamics in crowds, with an emphasis on how physical interactions and information flow give rise to large-scale behaviors. 
+My name is [Isaac Boris Breinyn](https://isaacbreinyn.github.io), and I am currently a postdoctoral researcher in the Department of Collective Behaviour at the Max Planck Institute of Animal Behavior, working with [Prof. Iain Couzin](https://www.ab.mpg.de/couzin). My postdoctoral research focuses on human decision making and collective dynamics in crowds, with an emphasis on how physical interactions and information flow give rise to large-scale behaviors. 
 
 Broadly, I am interested in how biological systems sense and interact with their environment.
 
