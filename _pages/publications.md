@@ -77,7 +77,7 @@ How does an epithelium behave when seeded upon a heterogenous substrate? We answ
 **Wolf, A.E., Breinyn, I.B., Heinrich, M.A., Zajdel, T.J., Cohen, D.J.**  
 *PNAS Nexus (2022)* [🔗](https://doi.org/10.1093/pnasnexus/pgac002)
 
-![Project image placeholder](files/stim.jpg)
+![](files/stim.jpg)
 
 **Project Blurb:**  
 How does a homogenous cue affect a heterogenous cellular population? Here, we applied global stimulation to a square cultured epithelium and characterized the differences in behavior at different parts of the tissue. Interestingly, all four edges of the tissue, as well as the center, behaved uniquely. We found that, in the context of mechanical properties and collective behavior, a short-term electrical shock performs a 'mechanical reset' in the tissue, 
