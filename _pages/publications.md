@@ -63,7 +63,6 @@ Here, Gawoon and I grew MDCK-II kidneyoids and electrically stimulated them. The
 **Suh, K., Cho, Y., Breinyn, I.B., Cohen, D.J.**  
 *Cell Reports (2024)* [🔗](https://doi.org/10.1016/j.celrep.2024.113743)
 
-**Image:**  
 ![](/files/janus.jpg)
 
 **Project Blurb:**  
