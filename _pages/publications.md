@@ -16,7 +16,11 @@ None of this work would have been possible without amazing collaborations betwee
 
 ---
 
-Coming soon, mind the gap...
+**Prediation sculpts prey school dynamics**
+w/ Angela Albi, Ph.D. (MPI-AB)
+
+
+
 
 ---
 
